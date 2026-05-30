@@ -20,7 +20,7 @@
 ```typescript
 const vasudevan = {
   name:        "Vasudevan M",
-  location:    "Elampillai, Salem, Tamil Nadu 🇮🇳",
+  location:    "Elampillai, Salem, Tamilnadu IN",
   degree:      "B.Tech – CS & Business Systems @ MKCE, Karur",
   email:       "vasudevan12506@gmail.com",
 
