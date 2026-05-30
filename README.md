@@ -114,7 +114,7 @@ const vasudevan = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasudevan12506&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vasudevanstar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -143,9 +143,9 @@ const vasudevan = {
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [**AI Career & Skills Advisor**](https://github.com/vasudevan12506/AI-Career-And-Skills-Advisor) | TypeScript · Gemini API · Google Cloud Vertex AI · HTML | AI-powered career guidance platform; analyzes student profiles, maps skills to job roles, generates personalized learning roadmaps, mock interview simulation & resume feedback — focused on Indian students |
-| [**AURA – Travel Guidance for Special Abled**](https://github.com/vasudevan12506/AURA) | TypeScript · Gemini API · HTML | AI-assisted in-cab guidance system with multi-role interfaces (Passenger, Driver, Caregiver); real-time AI navigation & communication support for specially-abled users |
-| [**VoxiQ – AI Voice Survey System**](https://github.com/vasudevan12506/VoxiQ) | TypeScript · Gemini API · HTML | Voice-driven AI survey platform; multi-role interface design with real-time AI assistance and accessibility-focused UI/UX features |
+| [**AI Career & Skills Advisor**](https://github.com/vasudevanstar/AI-Career-And-Skills-Advisor) | TypeScript · Gemini API · Google Cloud Vertex AI · HTML | AI-powered career guidance platform; analyzes student profiles, maps skills to job roles, generates personalized learning roadmaps, mock interview simulation & resume feedback — focused on Indian students |
+| [**AURA – Travel Guidance for Special Abled**](https://github.com/vasudevanstar/AURA) | TypeScript · Gemini API · HTML | AI-assisted in-cab guidance system with multi-role interfaces (Passenger, Driver, Caregiver); real-time AI navigation & communication support for specially-abled users |
+| [**VoxiQ – AI Voice Survey System**](https://github.com/vasudevanstar/VoxiQ) | TypeScript · Gemini API · HTML | Voice-driven AI survey platform; multi-role interface design with real-time AI assistance and accessibility-focused UI/UX features |
 
 </div>
 
@@ -216,7 +216,7 @@ const vasudevan = {
 
 [![Email](https://img.shields.io/badge/Email-vasudevan12506%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasudevan12506@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasudevan%20M-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasudevan-m)
-[![GitHub](https://img.shields.io/badge/GitHub-vasudevan12506-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vasudevan12506)
+[![GitHub](https://img.shields.io/badge/GitHub-vasudevan12506-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vasudevanstar)
 
 </div>
 
