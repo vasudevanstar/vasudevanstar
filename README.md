@@ -22,7 +22,7 @@ const vasudevan = {
   name:        "Vasudevan M",
   location:    "Elampillai, Salem, Tamil Nadu 🇮🇳",
   degree:      "B.Tech – CS & Business Systems @ MKCE, Karur",
-  email:       "vasudevanstar@gmail.com",
+  email:       "vasudevan12506@gmail.com",
 
   stack: [
     "TypeScript", "HTML", "CSS",
@@ -213,7 +213,7 @@ const vasudevan = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-vasudevanstar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasudevanstar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vasudevan12506%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasudevan12506@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasudevan%20M-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasudevan-m)
 [![GitHub](https://img.shields.io/badge/GitHub-vasudevanstar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vasudevanstar)
 
